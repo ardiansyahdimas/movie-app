@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movies App</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_tv_show">Tv Show</string>
+    <string name="terjadi_kesalahan_coba_lagi_nanti">Terjadi kesalahan coba lagi nanti!</string>
+    <string name="baseUrlImage">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="baseUrlVideo">https://www.youtube.com/watch?v=%s</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="overview">Overview</string>
+    <string name="reviews">Reviews</string>
+</resources>
